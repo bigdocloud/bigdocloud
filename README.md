@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bigdocloud
-- 👀 I’m interested in Big Data, Data Analytics, Data Science, Maching/Deep/Reinforcement Learning and AI, DataOps, MLOps and DevOps.
+- 👀 I’m interested in Big Data, Data Analytics, Data Science, Machine Learning and AI, DataOps, MLOps and DevOps.
 - 📫 How to reach me here.
 
 <!---
